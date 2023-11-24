@@ -1,6 +1,6 @@
 # GridHTM---Anomaly-Detection
 
-# Grid HTM
+# Grid HTM - Used VIRAT Dataset
 ![](clip.gif)
 
 This repo depends on htm.core (https://github.com/htm-community/htm.core)
