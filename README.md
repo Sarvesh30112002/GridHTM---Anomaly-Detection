@@ -4,6 +4,7 @@
 ![](clip.gif)
 
 This repo depends on htm.core (https://github.com/htm-community/htm.core)
+
 ###Setup
 To clone the repo and htm.core:
 ```commandline
